@@ -1,0 +1,14 @@
+Variables
+R:. Una variable es una forma de almacenar el valor de algo para luego usarlo y esta se puede configurar y restablecer a cualquier tipo.
+
+Strings
+R:. los Strings son cualquier cadena de texto entre comillas ya sean dobles o simples.
+
+Funciones (argumentos, return)
+R:. Las funciones o también llamadas objetos invocables son muy importantes en todo lenguaje de programación, con ellas podremos calcular y combinar variables.
+
+Declaraciones if
+R: Las declaraciones if se untilizan para evaluar una expresión condicional si se cumple la condicion (es verdadera o true) ejecutará un bloque de codigo. Si es (falsa o false), es posible ejecutar otras sentencias.
+
+Valores booleanos (true, false)
+R:. En Javascript usamos boleanos para afirmar si un valor es verdadero o falso.
