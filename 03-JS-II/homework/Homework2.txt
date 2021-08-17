@@ -1,0 +1,7 @@
+Descripción de términos 
+ 
+for
+R:. Cuando tenemos que digitar lineas de código que sean repetitivas utilizaremos este ¨Statement¨ qque nos ayudará a optimizar el tiempo de trabajo
+
+&&, ||, !
+R:. Los operadores lógicos (AND, OR, NOT). Nos proporcionan un resultado a partir de que se cumpla o no cierta condición, producen un resultado booleano, y sus operandos son también valores lógicos o asimilables a ellos (los valores numéricos son asimilados a cierto o falso según su valor sea cero o distinto de cero). 
