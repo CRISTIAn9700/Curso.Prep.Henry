@@ -1,0 +1,14 @@
+Drescripción de conceptos¨:
+
+Arrays
+R:. Un array es una manera de poder guardar datos del mismo tipo o clase (Enteros, carácteres, booleanos, etc.).
+
+Es posible el acceso a cada elemento de un array a través de un número entero que se denomina índice (pueden existir 2 o más índices según la dimensionalidad del array).
+
+La numeración de estos elementos dentro del array comienza en 0 (primer elemento del array) y finaliza en n-1 (último elemento del array) donde n es el tamaño completo de dicho array.
+
+Para utilizar los arrays de manera adecuada se realizan las siguientes acciones sobre ellos:
+
+Declarar el array
+Crear el array e inicializarlo (Esta acción puede ser incluida en la declaración)
+Acceder y utilizar el array.
