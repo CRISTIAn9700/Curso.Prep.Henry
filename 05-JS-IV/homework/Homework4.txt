@@ -1,0 +1,28 @@
+Objetos.
+
+R:. Los objetos y las matrices son similares en ciertas cosas, y muy diferentes en otras. Mientras que los array pueden contener múltiples elementos relacionados unos con otros, los objetos contienen mucha información sobre una sola cosa. Los objetos se instancian usando llaves ({}).
+
+
+
+Propiedades.
+
+R:. Una propiedad es una asociación entre un nombre (o clave) y un valor.
+
+
+Métodos.
+
+R:. En los objetos, los valores se pueden establecer en funciones. Las funciones guardadas en un objeto se denominan métodos. Hemos utilizado muchos métodos hasta ahora a lo largo de este curso. .length, .push, .pop, etc., son todos métodos.
+
+
+
+Bucle for…in.
+
+R:. Es una sintaxis ligeramente diferente, comienza igual pero entre paréntesis declararemos una variable, la palabra clave in y el nombre del objeto. Esto recorrerá cada clave del objeto y finalizará cuando se hayan iterado todas las claves. Podemos usar esta clave, y la notación de corchetes, en nuestro bucle for para acceder al valor asociado con esa clave.
+
+
+
+Notación de puntos vs notación de corchetes.
+
+R:. La notación de puntos solo funciona con nombres de propiedades que son válidos nombres de identificadores  [Especificaciones] , así que básicamente cualquier nombre que también sea un nombre de variable válido (un válido ¡identificador,  y cualquier palabra clave reservada [Especificaciones] . 
+
+La notación de corchetes espera una expresión que se evalúa como una cadena (o puede ser forzada a una cadena), por lo que puede usar ¡cualquier secuencia de caracteres como nombre de propiedad. No hay límites para lo que puede contener una cadena.
